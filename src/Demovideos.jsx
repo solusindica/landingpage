@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'; 
-import Appdemo1 from './Assets/Appdemo1.mp4';
+import Appdemoc1 from './Assets/Appdemoc1.mp4';
 
 const Demovideos = () => {
   return (
@@ -25,7 +25,7 @@ const Demovideos = () => {
           <div className="group relative overflow-hidden rounded-lg shadow-lg transform transition duration-300 hover:scale-105">
            <video
             className="w-full h-auto"
-            src={Appdemo1}
+            src={Appdemoc1}
             autoPlay
             loop
             muted

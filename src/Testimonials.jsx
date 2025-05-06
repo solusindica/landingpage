@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Testimonial1 from './Assets/Testimonial1.mp4';
-import Testimonial2 from './Assets/Testimonial2.mp4';
-import Testimonial3 from './Assets/Testimonial3.mp4';
+import Testimonialc1 from './Assets/Testimonialc1.mp4';
+import Testimonialc2 from './Assets/Testimonialc2.mp4';
+import Testimonialc3 from './Assets/Testimonialc3.mp4';
 
 const Testimonials = () => {
   return (
@@ -27,7 +27,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
              
             >
-              <source src={Testimonial1} type="video/mp4" />
+              <source src={Testimonialc1} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -46,7 +46,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial2.jpg"
             >
-              <source src={Testimonial2} type="video/mp4" />
+              <source src={Testimonialc2} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -65,7 +65,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial3.jpg"
             >
-              <source src={Testimonial3} type="video/mp4" />
+              <source src={Testimonialc3} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
