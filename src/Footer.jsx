@@ -66,7 +66,7 @@ const Footer = () => {
               <strong>Contact:</strong> 7331109988
             </p>
             <p className="text-gray-600">
-              <strong>Email:</strong> contact@yoursite.com
+              <strong>Email:</strong>  info@sgprs.com
             </p>
           </div>
         </div>
