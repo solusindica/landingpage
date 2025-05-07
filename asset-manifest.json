@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saigangapanakeia.com/static/css/main.28c617f5.css",
-    "main.js": "/saigangapanakeia.com/static/js/main.e4859121.js",
+    "main.js": "/saigangapanakeia.com/static/js/main.ba51d251.js",
     "static/js/453.30b2c4d5.chunk.js": "/saigangapanakeia.com/static/js/453.30b2c4d5.chunk.js",
     "static/media/Oncology.webp": "/saigangapanakeia.com/static/media/Oncology.0d914d534ddb1e74ba92.webp",
     "static/media/Immunology.png": "/saigangapanakeia.com/static/media/Immunology.91b6d712c92e77246b3a.png",
@@ -30,11 +30,11 @@
     "static/media/Allergology.webp": "/saigangapanakeia.com/static/media/Allergology.b7de442816d9329a36b0.webp",
     "index.html": "/saigangapanakeia.com/index.html",
     "main.28c617f5.css.map": "/saigangapanakeia.com/static/css/main.28c617f5.css.map",
-    "main.e4859121.js.map": "/saigangapanakeia.com/static/js/main.e4859121.js.map",
+    "main.ba51d251.js.map": "/saigangapanakeia.com/static/js/main.ba51d251.js.map",
     "453.30b2c4d5.chunk.js.map": "/saigangapanakeia.com/static/js/453.30b2c4d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28c617f5.css",
-    "static/js/main.e4859121.js"
+    "static/js/main.ba51d251.js"
   ]
 }
