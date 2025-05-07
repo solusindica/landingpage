@@ -1,8 +1,5 @@
 import React from 'react';
 import './App.css';
-import Testimonialc1 from './videos/Testimonialc1.mp4';
-import Testimonialc2 from './videos/Testimonialc2.mp4';
-import Testimonialc3 from './videos/Testimonialc3.mp4';
 
 const Testimonials = () => {
   return (
@@ -27,7 +24,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
              
             >
-              <source src={Testimonialc1} type="video/mp4" />
+              <source src="/videos/Testimonialc1.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -46,7 +43,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial2.jpg"
             >
-              <source src={Testimonialc2} type="video/mp4" />
+              <source src="/videos/Testimonialc2.mp4" type="video/mp4"  />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -65,7 +62,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial3.jpg"
             >
-              <source src={Testimonialc3} type="video/mp4" />
+              <source src="/videos/Testimonialc3.mp4" type="video/mp4"  />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
