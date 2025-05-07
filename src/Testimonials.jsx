@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Testimonialc1 from './Assets/Testimonialc1.mp4';
-import Testimonialc2 from './Assets/Testimonialc2.mp4';
-import Testimonialc3 from './Assets/Testimonialc3.mp4';
+import Testimonialc1 from './videos/Testimonialc1.mp4';
+import Testimonialc2 from './videos/Testimonialc2.mp4';
+import Testimonialc3 from './videos/Testimonialc3.mp4';
 
 const Testimonials = () => {
   return (
