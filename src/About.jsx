@@ -34,7 +34,7 @@ const About = () => {
         <div className="flex-1 flex flex-col items-center justify-center">
   <img
     src={sgp_image}
-    alt="Founder image"
+    alt="Founder"
     className="rounded-xl w-full max-w-sm object-cover"
   />
   <h2 className="mt-4 text-lg font-medium text-center">
