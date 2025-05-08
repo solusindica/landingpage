@@ -24,7 +24,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
              
             >
-              <source src="/videos/Testimonialc1.mp4" type="video/mp4" />
+              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc1.mp4`} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -43,7 +43,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial2.jpg"
             >
-              <source src="/videos/Testimonialc2.mp4" type="video/mp4"  />
+              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc2.mp4`} type="video/mp4"  />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
@@ -62,7 +62,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
               poster="/thumbnails/testimonial3.jpg"
             >
-              <source src="/videos/Testimonialc3.mp4" type="video/mp4"  />
+              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc3.mp4`} type="video/mp4"  />
               Your browser does not support the video tag.
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
