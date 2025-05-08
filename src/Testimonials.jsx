@@ -24,8 +24,7 @@ const Testimonials = () => {
               className="w-full h-64 object-cover rounded-md shadow-md"
              
             >
-              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc1.mp4`} type="video/mp4" />
-              Your browser does not support the video tag.
+              <source  src="/videos/Testimonialc1.mp4" type="video/mp4" />
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
               “This platform revolutionized my wellness journey.”
@@ -41,10 +40,9 @@ const Testimonials = () => {
               controls
               playsInline
               className="w-full h-64 object-cover rounded-md shadow-md"
-              poster="/thumbnails/testimonial2.jpg"
+             
             >
-              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc2.mp4`} type="video/mp4"  />
-              Your browser does not support the video tag.
+             <source  src="/videos/Testimonialc2.mp4" type="video/mp4" />
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
               “The AI-Ayurveda combo is so innovative!”
@@ -60,10 +58,9 @@ const Testimonials = () => {
               controls
               playsInline
               className="w-full h-64 object-cover rounded-md shadow-md"
-              poster="/thumbnails/testimonial3.jpg"
+              
             >
-              <source  src={`${process.env.PUBLIC_URL}/videos/Testimonialc3.mp4`} type="video/mp4"  />
-              Your browser does not support the video tag.
+              <source  src="/videos/Testimonialc3.mp4" type="video/mp4" />
             </video>
             <p className="mt-4 text-center text-gray-700 font-medium">
               “Highly personalized and effective solutions.”
