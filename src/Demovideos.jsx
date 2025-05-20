@@ -13,7 +13,7 @@ const Demovideos = () => {
           <div className="w-full  max-w-4xl mx-auto rounded-lg overflow-hidden shadow-lg aspect-w-16 aspect-h-11">
            <iframe
              className="w-full h-64 object-cover rounded-md shadow-md"
-             src="https://www.youtube.com/embed/XgC-rhT8V0o?controls=1&mute=1"
+             src="https://www.youtube.com/embed/XgC-rhT8V0o?controls=1&mute=1&rel=0"
              title="YouTube Demo Video"
              frameBorder="0"
              allow="encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
@@ -31,7 +31,8 @@ const Demovideos = () => {
              allow="encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
              allowFullScreen
             ></iframe>
-            
+
+
           </div>
 
 
