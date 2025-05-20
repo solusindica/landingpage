@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.28c617f5.css",
-    "main.js": "/static/js/main.df8334af.js",
+    "main.css": "/static/css/main.9de2f56a.css",
+    "main.js": "/static/js/main.cf63365c.js",
     "static/js/453.30b2c4d5.chunk.js": "/static/js/453.30b2c4d5.chunk.js",
     "static/media/Oncology.webp": "/static/media/Oncology.0d914d534ddb1e74ba92.webp",
     "static/media/Immunology.png": "/static/media/Immunology.91b6d712c92e77246b3a.png",
@@ -29,12 +29,12 @@
     "static/media/logo.png": "/static/media/logo.63e2efeca72e0730e714.png",
     "static/media/Allergology.webp": "/static/media/Allergology.b7de442816d9329a36b0.webp",
     "index.html": "/index.html",
-    "main.28c617f5.css.map": "/static/css/main.28c617f5.css.map",
-    "main.df8334af.js.map": "/static/js/main.df8334af.js.map",
+    "main.9de2f56a.css.map": "/static/css/main.9de2f56a.css.map",
+    "main.cf63365c.js.map": "/static/js/main.cf63365c.js.map",
     "453.30b2c4d5.chunk.js.map": "/static/js/453.30b2c4d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28c617f5.css",
-    "static/js/main.df8334af.js"
+    "static/css/main.9de2f56a.css",
+    "static/js/main.cf63365c.js"
   ]
 }
