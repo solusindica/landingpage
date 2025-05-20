@@ -16,7 +16,7 @@ const Demovideos = () => {
              src="https://www.youtube.com/embed/XgC-rhT8V0o?controls=1&mute=1"
              title="YouTube Demo Video"
              frameBorder="0"
-             allow=" encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
+             allow="encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
              allowFullScreen
             ></iframe>
           </div>
@@ -25,13 +25,13 @@ const Demovideos = () => {
           <div className="group relative overflow-hidden rounded-lg shadow-lg transform transition duration-300 hover:scale-105">
            <iframe
              className="w-full h-64 object-cover rounded-md shadow-md"
-              src="https://www.youtube.com/embed/evJ95wX0uck?controls=1&mute=1&rel=0"
+             src="https://www.youtube.com/embed/evJ95wX0uck?controls=1&mute=1&rel=0"
              title="YouTube Demo Video"
              frameBorder="0"
-             allow=" encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
+             allow="encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
              allowFullScreen
             ></iframe>
-            <div className="absolute inset-0 bg-black bg-opacity-10 group-hover:bg-opacity-30 transition duration-300 pointer-events-none"></div>
+            
           </div>
 
 
