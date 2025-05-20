@@ -16,7 +16,7 @@ const Demovideos = () => {
              src="https://www.youtube.com/embed/XgC-rhT8V0o?controls=1&mute=1&rel=0"
              title="YouTube Demo Video"
              frameBorder="0"
-             allow=" encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
+             allow="encrypted-media; clipboard-write; accelerometer; gyroscope; picture-in-picture"
              allowFullScreen
             ></iframe>
           </div>
