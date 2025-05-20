@@ -48,7 +48,7 @@ const Navigation = () => {
           <a href="#about" onClick={() => setMenuOpen(false)} className="block text-gray-700 hover:text-blue-600">About</a>
           <a href="#services" onClick={() => setMenuOpen(false)} className="block text-gray-700 hover:text-blue-600">Services</a>
           <a href="#contact" onClick={() => setMenuOpen(false)} className="block text-gray-700 hover:text-blue-600">Footer</a>
-          <a href="#appointment" onClick={() => setMenuOpen(false)} className="block text-white bg-blue-600 text-center py-2 rounded hover:bg-blue-700">
+          <a href="https://saigangapanakeia.in/Home/appointment" onClick={() => setMenuOpen(false)} className="block text-white bg-blue-600 text-center py-2 rounded hover:bg-blue-700">
             Book Appointment
           </a>
         </div>
